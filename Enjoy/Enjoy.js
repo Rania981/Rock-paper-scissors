@@ -44,10 +44,6 @@ switch(result){
         computerScore++;
         computerScoreDisplay.textContent = computerScore;
         break;
-
-}
-
-
-}
+    }}
 playGame("rock");
 

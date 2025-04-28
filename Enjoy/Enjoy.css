@@ -11,13 +11,9 @@ body{
 h1{
     font-size :3rem; 
     color: rgb(60, 82, 82);
-
-
 }
 .choice{
     margin-bottom: 30px;
-
-
 }
 .choice button{
     font-size:7.5rem;
@@ -27,12 +23,9 @@ h1{
     background-color: aqua;
     cursor: pointer;
     transition: background-color 0.5s ease;
-
-
 }
 .choice button:hover{
-
-    background-color: rgb(37, 58, 58);
+ background-color: rgb(37, 58, 58);
 }
 #playerdisplay, #computerdisplay{
     font-size: 2.5rem;
@@ -40,13 +33,11 @@ h1{
 #resultdisplay{
     font-size:4rem ;
     margin:30px 0 ;
-
 }
 .resul{
     text-align: center;
     color: rgb(13, 104, 13);
-    
-}
+    }
 #greenText{
     color: chartreuse;
 }
@@ -55,7 +46,6 @@ h1{
 }
 .scoreDisplay{
     font-size: 2rem;
-
 }
 #playerScoreDisplay{
     color: chartreuse;
@@ -71,8 +61,7 @@ h1{
     text-align: center;
     font-size: 2rem;
     color: gray;
-    
-}
+    }
 
 
 
